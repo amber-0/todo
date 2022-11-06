@@ -4,7 +4,7 @@ const App = () => {
   const onClickButton = () => alert();
   const contentStyle = {
     color: "blue",
-    fontSize: "18px"
+    fontSize: "18px",
   };
 
   return (
